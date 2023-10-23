@@ -21,3 +21,5 @@ https://docs.pmnd.rs/react-three-fiber/getting-started/introduction
 https://www.npmjs.com/package/nanoid
 
 https://refine.dev/blog/zustand-react-state/#getting-started-with-zustand
+
+https://www.npmjs.com/package/@react-three/drei?activeTab=readme
