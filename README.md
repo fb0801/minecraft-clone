@@ -3,7 +3,7 @@ Javascript, React and Three.js Minecraft clone
 
 
 ## Issues:
-
+- installed react-three/drei and other packages needed
 
 ## Changes made:
 
